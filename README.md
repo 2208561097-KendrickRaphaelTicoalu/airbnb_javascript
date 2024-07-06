@@ -1,3 +1,8 @@
+ How Airbnb gave the SECRET to perfect JavaScript code
+Code Munchies
+
+https://www.youtube.com/watch?v=a9fMUun1jZo 
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
